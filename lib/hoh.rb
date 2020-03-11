@@ -32,8 +32,7 @@
 
 def naming_system
   {
-    PORTION_1,
-    sub_category: {Portion_2}
+    PORTION_1
   }
   # Remember:
   #  Kingdom
