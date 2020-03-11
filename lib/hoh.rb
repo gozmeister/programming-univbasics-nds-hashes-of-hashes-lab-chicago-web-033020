@@ -32,7 +32,7 @@
 
 def naming_system
   {
-    PORTION_1,
+    PORTION_1
     sub_category: Portion_2
   }
   # Remember:
